@@ -1,7 +1,5 @@
 # GeoForest Tools
 
-![Geomatica Ambiental](https://github.com/geomatica-ambiental/geoforest-tools/logo3x1m-01.jpg)
-
 **Análisis y gestión forestal integrada con Google Earth Engine para QGIS**
 
 [![QGIS Plugin](https://img.shields.io/badge/QGIS-3.28%2B%20%7C%204.0%2B-green)](https://plugins.qgis.org/plugins/geoforest-tools/)
