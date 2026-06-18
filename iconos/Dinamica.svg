@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <!-- Capa inferior -->
+  <path fill="#81C784" d="M2 10l6 3 6-3-6-3z"></path>
+
+  <!-- Capa superior -->
+  <path fill="#2E7D32" d="M2 6l6 3 6-3-6-3z"></path>
+
+  <!-- Flecha dinámica -->
+  <path fill="#1565C0" d="M12 1l3 3h-2v4h-2V4H9z"></path>
+</svg>

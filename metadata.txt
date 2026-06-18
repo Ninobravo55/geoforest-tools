@@ -1,0 +1,24 @@
+[general]
+name=GeoForest Tools
+qgisMinimumVersion=3.28
+qgisMaximumVersion=99.99
+description=Herramienta para el análisis y gestión forestal integrada con Google Earth Engine.
+version=2.0
+author=Geomatica Ambiental
+email=nino@geomatica.pe
+authorUrl=https://www.geomatica.pe/
+about=GeoForest Tools es un plugin que conecta QGIS con Google Earth Engine para realizar procesamientos masivos de datos satelitales en la nube orientados al monitoreo de bosques, descarga de deforestación histórica y alertas tempranas (GEOBOSQUES, GFW, GLCLUC).
+tracker=https://github.com/geomatica-ambiental/geoforest-tools/issues
+repository=https://github.com/geomatica-ambiental/geoforest-tools
+homepage=https://www.geomatica.pe/
+category=Raster
+tags=earth engine, gee, geobosques, forestal, deforestacion, gcp, gfw, global forest watch, glcluc, monitoreo, remote sensing
+icon=icon.png
+hasProcessingProvider=yes
+experimental=False
+deprecated=False
+changelog=
+    2.0: Consolidación de arquitectura. Base reutilizable GeeRasterAlgorithm. Adopción de export_router. Correcciones en GLCLUC. Backend matplotlib mejorado. Tests y CI.
+    1.2: Eliminación de duplicación en AOI e init GEE. Capa de compatibilidad Qt5/Qt6.
+    1.1: Optimización de código y mejoras en exportación a Google Drive/GCS. Integración de Global Forest Watch (GFW) y GLCLUC 2020.
+    1.0: Lanzamiento inicial con integración a GEOBOSQUES.

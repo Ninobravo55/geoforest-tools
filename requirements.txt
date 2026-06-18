@@ -1,0 +1,10 @@
+# GeoForest Tools — dependencias de runtime (fuera del stack base de QGIS).
+# Rangos conservadores: mayor fijado para evitar roturas por cambios de API.
+earthengine-api>=0.1.380,<2.0
+geopandas>=0.12,<2.0
+shapely>=2.0,<3.0
+pandas>=1.5,<3.0
+numpy>=1.23,<3.0
+matplotlib>=3.6,<4.0
+openpyxl>=3.1,<4.0
+requests>=2.28,<3.0

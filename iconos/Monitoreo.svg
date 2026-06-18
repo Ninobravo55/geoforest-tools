@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <!-- Árbol -->
+  <path fill="#2E7D32" d="M6 8L8 3l2 5H9v2H7V8z"></path>
+  <rect x="7.2" y="10" width="1.6" height="2.5" fill="#6D4C41"></rect>
+
+  <!-- Ojo monitoreo -->
+  <path fill="none" stroke="#1565C0" stroke-width="1" d="M2 8c1.5-2 3.5-3 6-3s4.5 1 6 3c-1.5 2-3.5 3-6 3S3.5 10 2 8z"></path>
+  <circle cx="8" cy="8" r="1.2" fill="#1565C0"></circle>
+</svg>

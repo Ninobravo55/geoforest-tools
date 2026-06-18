@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <circle cx="8" cy="8" r="7" fill="#FFFFFF" stroke="#2E7D32"></circle>
+  
+  <path fill="#2E7D32" d="M8 3L5 8h2v2h2V8h2L8 3z"></path>
+  <rect x="7.2" y="10" width="1.6" height="2" fill="#6D4C41"></rect>
+
+  <circle cx="12" cy="5" r="2" fill="#4CAF50"></circle>
+  <text x="12" y="5.9" font-size="2.5" text-anchor="middle" fill="white">C</text>
+</svg>
